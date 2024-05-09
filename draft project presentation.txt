@@ -1,0 +1,21 @@
+Profile View System
+
+Linkedin Scraping and AI Chatbot Integration
+
+1. Linkedin Scraping(Backend)
+- Searching Linkedin Profile by Email
+|________auto-bot
+|________
+- Searching Phone Numbers by name, job titile, linkedin profile url 
+|________google searching
+2. Linkedin Scraping(Frontend)
+- Android Java
+|________
+- API Integration
+|________
+3. AI Knowledge Structure
+- Use LLM
+- Use Openai service for knowledge of data scraped.
+|________
+4. AI Chatbot Completed
+|________Complete chatbot

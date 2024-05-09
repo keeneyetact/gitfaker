@@ -1,0 +1,91 @@
+https://www.upwork.com/jobs/~01084730accbbc4e7c
+=============
+Mon, Jan 29
+Stefan Stankovic 7:13 PM
+Hi, there!
+Nice to meet you.
+I will do this task with Puppeteer or Selenium. Or I can use directly API endpoints based on analyzing the Network Traffics.
+As a Scraping Expert, I will complete this in a few hours.
+Looking forward to working with you.
+Regards, Stefan.
+
+View details
+AM
+Alex Millet 7:13 PM
+Hi I would like to discuss more with you about our project & the deliverables.
+
+Stefan Stankovic 7:14 PM
+Hi, Alex Millet
+
+Okay, Thanks
+
+First, could you share the website link to scrape?
+
+AM
+Alex Millet 7:17 PM
+There will be multiple websites we would need to scrape. This is an example of one of the sites: https://www.theurbanloungeslc.com
+
+This would be another https://www.quartersslc.com/the-dlc
+
+The idea is to have a tool that can scrape 10-30 different websites and pull the information in
+
+Stefan Stankovic 7:22 PM
+how many websites?
+
+exactly the number is fixed?
+
+AM
+Alex Millet 7:28 PM
+This is an example of the information we are looking to scrape from each site
+
+Music Show Webscraping Template.xlsx 
+Music Show Webscraping Template.xlsx
+8.50 kB
+AM
+Alex Millet 7:34 PM
+Venue Name Calendar Link
+The State Room https://thestateroompresents.com/the-state-room
+The CommonWealth Room https://thestateroompresents.com/the-commonwealth-room
+Deer Valley https://thestateroompresents.com/deer-valley
+Live at Eccles https://thestateroompresents.com/eccles-theater
+Other Room (State Room Presents) https://thestateroompresents.com/stateroompresents
+The Depot https://www.livenation.com/venue/KovZpZAJk7IA/the-depot-events?utm_source=GMBlisting&utm_medium=organic#events
+Metro Music Hall https://www.metromusichall.com/
+Granary Live https://granarylive.com/events/
+Hangar House https://hangarhouseslc.com/events/
+Black Lung Society https://www.blacklungsociety.com/events
+The Complex https://www.blacklungsociety.com/events
+The Union Event Center https://theunioneventcenter.com/
+The Beehive https://www.thebeehiveslc.com/
+Abravanel Hall https://www.saltlakecountyarts.org/venues/abravanel-hall/
+Libby Gardner Concert Hall https://tickets.utah.edu/category/libby-gardner-concert-hall/
+Kilby Court http://www.kilbycourt.com/
+Jeanne Rose Wagner Hall https://www.saltlakecountyarts.org/venues/the-rose/
+Soundwell http://www.soundwellslc.com/
+Red Butte Garden Amphitheatre http://www.redbuttegarden.org/concerts
+Urban Lounge https://www.theurbanloungeslc.com/
+International https://www.internationalbarslc.com/
+Kingsbury Hall http://kingsburyhall.utah.edu/
+Sky SLC https://skyslc.com/
+LNE Presents https://lnepresents.com/
+Gold Standard Music http://www.goldstandardmusic.com/
+801 Event Center https://www.801conventionandeventcenter.com/
+Tavernacle Social Club http://www.tavernacle.com/
+The Core Event Center http://thecoreeventcenter.com/
+Gallivan Center http://www.thegallivancenter.com/
+The DLC http://quartersslc.com/the-dlc
+The Great Saltair http://www.thesaltair.com/
+The Depot https://www.livenation.com/venue/KovZpZAJk7IA/the-depot-events?utm_source=GMBlisting&utm_medium=organic#events
+Clubhouse on South Temple http://clubhouseslc.com/
+Tailgate Tavern http://www.tailgatetavernslc.com/
+Venue 6SIX9 http://www.venue6six9.com/
+The Green Pig Pub https://thegreenpigpub.com/salt-lake-city-downtown-salt-lake-city-the-green-pig-pub-events
+A Bar Named Sue https://www.abarnamedsue.com/events
+The Hog Wallow Pub https://thehogwallow.com/#events
+Lake Effect https://lakeeffectslc.com/calendar/
+Piper Down Pub https://www.piperdownpub.com/live-music
+
+This is the full list of URLS we would like to scrape for to start
+
+Stefan Stankovic 7:40 PM
+Let me check them

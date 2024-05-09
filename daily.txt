@@ -1,0 +1,2302 @@
+=============================================================
+5/12
+------------------------------
+bid-6
+bid templates-8
+seo project-3
+google analytics project-1
+github-commit-15projects
+---------------------------
+skill-bid, seo , google analytics
+------------------------------
+plan:wordpress, nextjs, vue, angular, dapp
+=============================================================
+5/13
+------------------------------
+bid-6
+bid template-2
+github-new-repo-3
+next-starter-project-2
+wordpress-install and run
+------------------------------
+skill-bid, next.js, wordpress
+------------------------------
+plan: vue, angular, dapp, docker, PWA
+=============================================================
+5/14
+------------------------------
+bid-9
+bid template-4
+progressive-web-app-1
+english-learning-5paragraphs
+------------------------------
+skill-bid,PWA, English
+------------------------------
+plan: ???
+=============================================================
+5/15
+------------------------------
+bid-2
+english-10 sentences
+vue-starter-project-1
+github-repo-update
+------------------------------
+skill-english, vue, portfolio
+------------------------------
+plan: ???
+=============================================================
+5/17
+------------------------------
+bid-18
+three.js-stater-1
+------------------------------
+skill-bid, three.js
+------------------------------
+plan: three.js-tutorial, react-typescript
+=============================================================
+5/18
+------------------------------
+bid- 21, react-three.js-project-3, git-repo-create-3, job-apply-3
+------------------------------
+skill-bid, three.js
+------------------------------
+plan: 
+=============================================================
+5/19
+------------------------------
+bid- 14, portfolio-update-1, git-repo-create-4
+------------------------------
+skill-react-three.js
+------------------------------
+plan: resume update
+=============================================================
+5/20
+------------------------------
+bid- 20, react-three.js-project-3
+------------------------------
+skill-react-three.js
+------------------------------
+plan: resume update
+=============================================================
+5/21
+------------------------------
+bid- 21
+------------------------------
+skill-?
+------------------------------
+plan: get certificate, resume create, resume update, bid template improve, react-native
+=============================================================
+5/22
+------------------------------
+bid- 45, certification-5, portfolio-create-1, bid-template-1 && github-user-creation-4
+------------------------------
+skill-?
+------------------------------
+plan: certification-5, 
+=============================================================
+5/23
+------------------------------
+bid- 52, certification-1, portfolio-update-1, bid-template-1
+chat-3
+------------------------------
+skill-?
+------------------------------
+plan: certification-5, 
+=============================================================
+5/24
+------------------------------
+bid- 41, bid-template-2, react-typescript-learning
+chat-2
+------------------------------
+skill-?
+------------------------------
+plan: certification-5, 
+=============================================================
+5/25
+------------------------------
+bid- 46, bid-template-1
+chat-2
+------------------------------
+skill-?
+------------------------------
+plan: certification-5, 
+=============================================================
+5/25
+------------------------------
+bid- 52, bid-template-2, portfolio & resume update-2, github-user-creation-1
+chat-3, Rittam Debnath(next.js+tailwind), divyesh khamele(node+python), Maxson Loiuse(html)
+------------------------------
+skill-?
+------------------------------
+plan: 
+=============================================================
+5/26
+------------------------------
+bid- 48, vcall-1, github-repo-4
+chat-2, Shivam Gupta(vCall, figma->framer), Codey S.(Ulixee/Hero)
+------------------------------
+skill-?
+------------------------------
+plan: 
+=============================================================
+5/28
+------------------------------
+bid- 6, chat-1(Cristian Martinoli)
+------------------------------
+skill-?
+------------------------------
+plan: 
+=============================================================
+5/29
+------------------------------
+bid- 33, chat-5, english-phrases-50
+Darko Vic(FigmaDesign), Laurie Fleming(Node.js), Cristian Martinoli(UI design), Toyeo H(ecommerce), Peter Gordon(bidding website dev)
+------------------------------
+skill-?
+------------------------------
+plan: 
+=============================================================
+5/30
+------------------------------
+bid- 56
+Eduardo Couto(HTML), Liam Lagoon(HTML), Peter Magee(Wordpress), Toyeo H(Wordpress), Shlomi Avigdor(webgl)
+------------------------------
+skill-?
+------------------------------
+plan: 
+=============================================================
+5/31
+------------------------------
+bid- 32, English-sentences-20, job-bid-7
+------------------------------
+skill-?
+------------------------------
+plan: 
+=============================================================
+6/1
+------------------------------
+bid- 40, English-sentences-10,
+Ahmad Almuzaini(Java database), Lachlan Sinclair(HTML+CSS), Chiara Burns(Convert Design to site and database),hiren Gangaramani(FullStack+AI)
+------------------------------
+skill-?
+------------------------------
+plan: 
+=============================================================
+6/2
+------------------------------
+bid- 28, job-interview-questions&answers- 3
+Anna Kaminska(revamping Wordpress site), Mohamed Ghaith(Wordpress)
+------------------------------
+skill-?
+------------------------------
+plan: 
+=============================================================
+6/3
+------------------------------
+bid- 25, resume-create-1, portfolio-create-1, chat-1
+Tijo Varughese(Amazon API)
+------------------------------
+skill-?
+------------------------------
+plan: 
+=============================================================
+6/3
+------------------------------
+bid- 20, resume-create-1
+=============================================================
+6/5
+------------------------------
+bid- 30, english-sentences-10
+Asmitaben Sojitra(Wordpress)
+=============================================================
+6/6
+------------------------------
+bid- 30, interview-template-1
+
+=============================================================
+6/7
+------------------------------
+upwork-bid- 25, message-1, job-bid- 10
+message-mohamed H.(chrome-extension)
+=============================================================
+6/8
+------------------------------
+upwork-bid- 30, message-1, job-bid- 7
+Rakesh Gupta.(next.js)
+=============================================================
+6/10
+------------------------------
+upwork-bid- 7, message-0, job-bid- 5,dev-
+
+=============================================================
+6/17
+------------------------------
+upwork-bid- 20, message-0, job-bid-10
+=============================================================
+6/18
+---------------------------------
+upwork-bid-40, message-1, job-bid-3
+=============================================================
+6/19
+---------------------------------
+upwork-bid-40, php-learning
+=============================================================
+6/20
+---------------------------------
+upwork-bid-50, message-3
+Sang Nguyen, Canada(2website from figma) Sushil Sahni, India(school manage software), XUE LI CHEN, Belgium(restaurant site)
+=============================================================
+6/21
+---------------------------------
+upwork-bid-40, message-0
+=============================================================
+6/22
+---------------------------------
+upwork-bid-35, message-3
+Ashish Sukaralia(chrome extension),Lias Jones(responsive talet view), Manpreet maan(landing page)
+=============================================================
+6/23
+---------------------------------
+upwork-bid-40, message-2
+ Kiran Rao(Responsiveness), Paul Bett(CSS)
+=============================================================
+6/24
+---------------------------------
+upwork-bid-40, message-3
+Monisha Singgh(Frontend),Max Rahman(build replica of an website),harish G(Node.js, React.js, Mysql)
+=============================================================
+6/27
+---------------------------------
+upwork-bid-40, message-3, call-1(Jonas Mueller, 5min, Failed, Website Requirements)
+Jonas Mueller(Website Dev), Bharati Soni(Flutter, React-Native), Stanislav A(Bootstrap5 Grid)
+=============================================================
+6/28
+---------------------------------
+upwork-bid-50, message-4, call-1(Diana Erika, 15min, Failed, Reason:Technic Call)
+Jekaterina(npm run on Cpanel),  Grant Jordan(Fullstack Typescript), Cezar Martinez(React/Web3), Diana Erika(Site Dev)
+=============================================================
+6/29
+---------------------------------
+upwork-bid-15, job-bid-20, interview-preparing-1
+=============================================================
+7/1
+---------------------------------
+upwork-bid-30, job-bid-5, message-2
+Hayden Hamilton(HTML), Harry Kavanagh(Responsive)
+=============================================================
+7/2
+---------------------------------
+upwork-bid-20
+=============================================================
+7/3
+---------------------------------
+upwork-bid-30, message-2
+Thor Odinson (React, GraphQL),Sunny Dhaliwal(Google Sheets)
+=============================================================
+7/4
+---------------------------------
+upwork-bid-40, message-2
+Anand kumar(Php/Laravel and Vue.Js), Robert Neir(Port SDK from React to Svelte/Vue)
+=============================================================
+7/5
+---------------------------------
+upwork-bid-40, message-1
+Kamal Azari(Build a website)
+=============================================================
+7/6
+---------------------------------
+upwork-bid-30, message-2
+Jamiel Sheikh(Basic web chat app), Basic web chat app(simple website)
+=============================================================
+7/8
+---------------------------------
+upwork-bid-40, message-1
+Mike Yap()
+=============================================================
+7/9
+---------------------------------
+upwork-bid-50, message-3
+Osakue Okunwe(Backend-End), Shveta Tripathi(React and Next Js), Nico Terr(API)
+=============================================================
+7/10
+---------------------------------
+upwork-bid-50, message-2
+Matt Russel(website), Wayne John(Create website using wordpress)
+=============================================================
+7/11
+---------------------------------
+upwork-bid-40, message-0
+=============================================================
+7/12
+---------------------------------
+upwork-bid-40, message-0
+12.53
+=============================================================
+7/16,17
+---------------------------------
+9.50+11.40=21.30
+upwork-bid-70, job-bid-20, message-5, call-2
+Laurence M.(landing pages)-call , 10min, about requirements, failed, only on Upwork
+Stephen S.(Website)
+Cariappa T.(Saas Model ERP Solution)-call 5min, intro, in progress
+Robert N.(Full Stack Developer)
+Vince R.(React native, NodeJS, MongoDB)
+=============================================================
+7/18
+---------------------------------
+11.16
+upwork-bid-40, job-bid-20, message-2
+	
+Bharath N.(Chat client development in javascript)
+Jesus Gonzalez(Next.js expert needed)
+=============================================================
+7/19
+---------------------------------
+11.42
+upwork-bid-50, message-3
+	
+Mike Jones, Superstar Ventures(React)
+Football Soccer(React, Next.js)
+James Fraze(javascript/jquery)
+=============================================================
+7/20
+---------------------------------
+9.46
+upwork-bid-40, message-1
+Shweta Tiwari(React)
+=============================================================
+7/20
+---------------------------------
+15.22
+upwork-bid-50, meesage-1
+Caleb Matthias(React)
+=============================================================
+7/22-7/24
+---------------------------------
+5.11+3.34+12.50=21.35
+upwork-bid-120, meesage-5
+M.M(telegram bot)
+J.M(React)
+Nishad C.(Selenium)
+Zoltan Z.(data scraping)
+Otto Z.(React)
+=============================================================
+7/26
+---------------------------------
+13.08
+Upwork-bid-50, message-2
+Jon Gillham(prompt mining)
+Fsd Fsd(bot)
+=============================================================
+7/26
+---------------------------------
+9
+Upwork-bid-30
+=============================================================
+7/26
+---------------------------------
+12.24
+Upwork-bid-50, message-2
+Braden James(Bot Development)
+Shannon George(Automation)
+=============================================================
+7/28
+---------------------------------
+10.08
+Upwork-bid-50, message-4, 150$
+Felipe U.(python)
+Christopher D. (scrap)
+Nazmul H. (scrap)
+Eng A.(bot developement)
+=============================================================
+7/29
+---------------------------------
+09.58
+Upwork-bid-40, message-2
+Josh Reading(python)
+Alexander Fast(python)
+=============================================================
+8/7
+---------------------------------
+20.28
+Upwork-bid-50, message-2
+Gabriel A. (AWS)
+C F.(python)
+=============================================================
+8/8
+---------------------------------
+15.21
+Upwork-bid-50, message-5
+Julius K.(Scraping)
+Friedrich G.(Python)
+Htet Myo M.(Game Bot)
+Farhan M.(X3D,HTML)
+Will P.(Scraping)
+=============================================================
+8/9
+---------------------------------
+11.43
+Upwork-bid-50, message-2
+Jack G.(Python)
+Mehul P.(Scraping)
+=============================================================
+8/10
+---------------------------------
+15.50
+Upwork-bid-55, message-10, call-1(fail, technique issue, 10min, Webpack)
+Danny S.(Scraping)
+Umer Ashfaq S.(Scraping)
+Hammam A.(Scraping)
+Usman M.(Automation)
+Valerie S.(Scraping)
+Tijn B.(Scrapper)
+Oliveier G.(telegram bot)
+Jonas H.(python)
+Jacob Field(Scraping)
+Tauqeer H.(React)
+=============================================================
+8/11
+---------------------------------
+13.52
+Upwork-bid-50, message-4, call-1(success, Yogesh W., 10min, discussing on automation process, budget-150)
+Blessing K.(Frontend)
+Michael S.(Firebase and FireStore)
+Yogesh W.(Python-Automation)
+Kendal C.(Sraping)
+=============================================================
+8/13
+---------------------------------
+18.07
+Upwork-bid-50, message-4, call-1(success, Yogesh W., 10min, discussing on automation process, budget-150)
+Blessing K.(Frontend)
+Michael S.(Firebase and FireStore)
+Yogesh W.(Python-Automation)
+Kendal C.(Sraping)
+=============================================================
+8/14
+---------------------------------
+25.40
+Upwork-bid-70, message-8
+Michael H.(Data Mining/Lead Scraper)
+Tiago C.(Marketplace)
+Giovanni L.(ReactJS, React-Native)
+Akash G. (Telegram Bot)
+Gennieveve B.(Full-Stack)
+Kaustubh R.(ReactJS)
+Vipul U.(Directus CMS)
+Zibma I.(CMS Dev)
+=============================================================
+8/15
+---------------------------------
+8.11
+Upwork-bid-40, message-5
+Mohasen N.(PDF Scraping)
+Vipul U.(CMS)
+Erin D.(Website Developer)
+Emilio A.(MERN)
+Martin S.(Scraping)
+=============================================================
+8/16
+---------------------------------
+13.27
+Upwork-bid-60, message-4, call-1(Failed, 10min, reason: Tech call, About: the approach to solve the problem)
+Erin D.(Website Dev)
+Tina F.(Create 1 Splash Page For Company With Stripe API)
+Cindy H.(Python Trading Setup)
+Sajan G.(Create an appointment maker API through an external website)
+=============================================================
+8/17
+---------------------------------
+12.21
+Upwork-bid-59, message-8
+Bojan N.(Job Scrapping and other Automations)
+Veronika S.(Create React JS sidebar)
+Imran K.(Automated Trading)
+Nathan H.(Generate HTML From XML Files Using XSLT)
+Austin G.(Real Estate Data Trends Scraping)
+Canadian D.(Full stack developer)
+Viktor M.(Web Scraper needed for Skool Community Members Data Extraction)
+Rod S.(Job Title: Build a Basic Chrome Extension for Scraper)
+=============================================================
+8/18
+---------------------------------
+14.19
+Upwork-bid-50, message-5
+Alex R.(ChatGPT)
+Minahil M.(Database)
+Cameron D.(Python Scraping)
+Harrison H.(Scraping)
+Mary C.(Scraping)
+=============================================================
+8/19
+---------------------------------
+8.5
+Upwork-bid-35, message-5, call-1(Failed, 5mins, Reason: No response after ending Call, About: Test task)
+Steve K.(Scraping)
+Nikifor B.(HTML)
+Muhammad A.(Web Scraping)
+Joshua M.(Full Stack)
+A O.(UI developer)
+=============================================================
+8/22
+---------------------------------
+14.30
+Upwork-bid-50, message-4
+Sebastian M.(Scraping)
+Tommy J.(Scraping)
+Calvin P.(Data Extraction)
+Michael W.(AI)
+=============================================================
+8/23
+---------------------------------
+13.20
+Upwork-bid-30, job-bid-20, task-accepted-1(milestone-1:200$, long-term-project, scrapping, client: Sebastian M)
+==============================================================
+=============================================================
+8/24
+---------------------------------
+15.10
+Upwork-bid-50, message-1, developing-(100% complete)
+Yamini H.(Python Scrapping UI tool)
+===================
+=============================================================
+8/26
+---------------------------------
+12.30
+Upwork-bid-50, message-5, test-task-60%
+Subhan V.(Automation)
+Sateesh S.(Web Scraping)
+Cyrus G.(Telegram Sniping Bot Dev)
+Depesh M.(Wordpress App Developer & FE Designer)
+Nicolas D.(Growth Hacking)
+=============================================================
+8/28
+---------------------------------
+18
+Upwork-bid-100, message-4, test-task-1
+Leo W.(Trading bot)
+Wasil I.(Python)
+Yuliia R. (Autoit automation)
+David C.(Python Bot)
+=============================================================
+8/29
+---------------------------------
+17.10
+Upwork-bid-60, message-5, call-1(Client: Bhavika, Result: In progress, Duration: 15mins, About: solution)
+Yean Shin Y.( Email Scraping Software Needed)
+Ajay O. (Frontend Developer needed urgently)
+Bertrand B.(Scrapping telegram channel)
+Bhavika R.(Web Scrapping Expert)
+Mike L.(Web3 wallet + mvp)
+=============================================================
+8/30
+---------------------------------
+15.10
+Upwork-bid-50, message-7
+Patrick H.(Python + Regex developer needed)
+Greg H.(Boat Records Scraping)
+Kendall W.(Scrape LinkedIn Profiles)
+Daksh V.(Automating a website cloning)
+Mickey M.(Wordpress)
+Josh B.(Python)
+Ankush G.(Python)
+=============================================================
+8/31
+---------------------------------
+14.08
+Upwork-bid-47, message-4
+Blagovest V.(Sports Betting Bot/Software Expert)
+Emmanuel F.(Data capture to invoice)
+Sales W.(IG Bot Liker/Viewer)
+Aviv B.(Web scraping)
+=============================================================
+9/1
+---------------------------------
+17.10
+Upwork-bid-50, message-6
+Darshil P.(Scraping)
+Deepak T.(Gatsby & NextJS)
+Anthony O.(Full stack developer)
+Maryam S.(Automation)
+Eike C.( Webflow Developer)
+Joshua K.(Scraper / lead generator)
+=============================================================
+9/2
+---------------------------------
+5.20
+Upwork-bid-25, message-5
+Faran I.(Web scraping)
+Lisa D. (Job Backfilling - Using API Key)
+Hump R.(Prompt)
+Peter S.(Airbyte)
+Khalid A.(Scraping)
+=============================================================
+9/4
+---------------------------------
+8.30
+Upwork-bid-10, Portfolio-Create-1, message- 2
+Michael K.(LinkedIn profiler (gather email, phone & other contact details))
+Gaurav M.(Equipment Bidding Platform)
+=============================================================
+9/5
+---------------------------------
+15.0
+Upwork-bid-40, Job-bid-30, message-5
+Utkarsh S.(Teach me how to scrap data from Facebook and then store it in csv file)
+Dancan K.(Experienced Quality assurance testers needed asap)
+Hemang M.(Advanced Web Scraping, Dynamic Content Handling, and Template Creation)
+Raghav K.(Full stack development - react & node)
+James M.(Explore options for tools to display a map and data, using Python libraries)
+Matthias M.(Crypto DeFi Profit Calculation Script)
+=============================================================
+9/6
+---------------------------------
+14.20
+Upwork-bid-50, job-bid-15, message-5
+kiriti K.(Hiring for Full stack development activities)
+Daniel B. (Graphic Image Editing Tool)
+Joseph N.(Need a skilled python web scraper to extract data off a website)
+Victor L.(Sitemap/Webscraping - Website)
+Hemang M.(Advanced Web Scraping, Dynamic Content Handling, and Template Creation)
+=============================================================
+9/7
+---------------------------------
+14.30
+Upwork-bid-50, job-bid-25, message-6, call-1(Result: Failed, About: Full Stack Intro+Tech, Duration: 10mins)
+Muhammad Rizwan I.(data Scraping)
+kiriti K.(Full Stack)
+Vasile G.(Scraping Bot)
+Divya M.(Frontend)
+Philipp R.(Puppeteer)
+Regan H. (Selenium)
+=============================================================
+9/8
+---------------------------------
+8.30
+Upwork-bid-40, job-bid-10, message-4
+Michael D.(Figma to HTML Developer required for WordPress site)
+Elzodxon S.(Full stack developer)
+Rick C. (Senior Full Stack Developer)
+Yash R.(Convert Figma Designs and Animations into HTML CSS Website)
+=============================================================
+9/11
+---------------------------------
+10.0
+Upwork-bid-60, message-5
+Affan A.(Python script to automate data entry and extraction from website)
+Jennifer P.(Extract data from multiple pages of a website and put into a spreadsheet)
+Pratim L. ( Landing page - Join waitlist)
+Jimmy B.(Create Five Dynamic Functions with Next.js)
+Saurabh K. (PayU Payment Gateway Integration React Native App)
+=============================================================
+9/12
+---------------------------------
+13.0
+Upwork-bid-60, message-7, call-(Client: Christopher, About: Data Scraping, Duration: 10mins, Result: Failed, Reason: requirements conflict)
+clement C.(Web scraping to create a DB in Excel)
+Sebas B. (Script to change gmb listing data)
+Dan S.(Full stack developer for multi brand portfolio platform site with ecomm)
+Omer I.(Web and App Developer)
+Raafat A. (Web Scraping & Crawling is Needed for an Internet advertising monitoring company)
+Jemima L.(Next.js Consultant with web3 and CMS experience)
+Christopher S.(Competitor Analysis / Data Cleanup & Scraping)
+=============================================================
+9/13
+---------------------------------
+15.0
+Upwork-bid-70, message-18
+Logan J.(Discord Server Data Collection)
+Erez B.(Create automation for Qgis workflow)
+Burkhard B.(Web App Developer for SEO Tools)
+Gil A. (Scraping, Dynamic Database, and Browser Plug-in Developer Needed)
+Join D.(Telegram Webapp Bot)
+Murtaza R.(Cricket website development)
+Sherl B.(Blockchain developer needed to build eCommerce platform)
+Christopher D. (Website CSS, PHP Contact form, and maybe even some SEO)
+David H.(Web Scraping / Crawling Expert)
+Pie M.(Website Development in Next js)
+==============================
+
+Mitch T. (Build backend and launch website)
+Oleksii M.(Python developer with experience Telegram bots/games)
+Sandip P.(Need Python developer for Apache Superset Customization and Integration)
+Jimmy B. (Website Builder Job - Similar to Elementor with Next.js)
+Charlie M.(Figma to PNG Converter using Python)
+Songyi D.(Page loading issue on iPhones (version earlier than 12))
+Josh B.(Seeking Data Collector for Talent Search Project)
+Colby S.(Mass DM services)
+=============================================================
+9/14
+---------------------------------
+15.0
+Upwork-bid-40, message-3, task-accept-1(Scraping+React-native, 25$/hr, in a week)
+Caspar G.(Need application (VBA / Python) to convert Word to Excel)
+YI C.(Data Gathering through API)
+Destiny A.(Data Scraper - U.S. SEC Website)
+=============================================================
+9/19
+---------------------------------
+21.30
+Upwork-bid-15, dev-(backend-server-100%, Performance-Imprvement-90%, frontend-Dev-10%)
+=============================================================
+9/20
+---------------------------------
+21.30
+Upwork-bid-45, dev: Backend-Completed(Bot+Scrap),Intergration-10%, Payment- 810
+=============================================================
+9/21
+---------------------------------
+17.40
+Upwork-bid-50, dev: Intergration-50%
+=============================================================
+9/22
+---------------------------------
+16.20
+Upwork-bid-50, dev: Intergration-80%
+=============================================================
+9/23
+---------------------------------
+13.30
+Upwork-bid-20, dev: Intergration-100%, message-1
+Saad B.(Configure keyclaok with reactjs typescript)
+=============================================================
+9/24, 25
+---------------------------------
+21.30
+Upwork-bid-40, test-80%
+=============================================================
+9/26
+---------------------------------
+17.20
+Upwork-bid-20, project-complete
+=============================================================
+9/27
+---------------------------------
+15.10
+Upwork-bid-10, payment-
+=============================================================
+9/28
+---------------------------------
+14.30
+bot-dev-60%
+=============================================================
+9/29
+---------------------------------
+16.10
+bug-fixing-100%, Upwork-bid-45
+=============================================================
+9/30
+---------------------------------
+9.20
+Upwork-bid-46, message-1
+Saud d.(Website develop)
+=============================================================
+10/3
+---------------------------------
+17.40
+Upwork-bid-70, message-6
+Ongus K.(Page scrapping)
+Dmitri C.(Chatgpt jailbreaking job)
+Blue T.( Senior Flutter Developer for AWS Cognito Integration)
+Ali I.(Extract reporting Data from Close CRM)
+Daniel E.(Script to Automate Browser Tasks)
+Millennial P.(Scrape website and automate daily)
+=============================================================
+10/4
+---------------------------------
+14.40
+Upwork-bid-110, messsage-3, call-(with KUH, 23:28-23:33, About website dev, Failed, Reason: enormous requirements)
+Murat H.(job Kotlin and PHP expert)
+Bilal A.(Want to develop a website)
+Johirul I.(Have to integrate Space ID API(.arb and .bnb) in an existing site built in express.js and next.js.)
+=============================================================
+10/5
+---------------------------------
+14.50
+Upwork-bid-70, job-bid-20, message-4
+Sunil M.(eCommerce System Development)
+Simon A.(Discord Job Board Bot)
+Hasan A.(Help with project on Node JS)
+Kel W.(Bot run and fetch data from courier website)
+=============================================================
+10/6
+---------------------------------
+14.40
+Upwork-bid-50, job-bid-15, message-2
+Andreas Schwarzkopf(Scrapy)
+Srikrishnan Ganesan(Full Stack)
+=============================================================
+10/7
+---------------------------------
+10.10
+Upwork-bid-50, message-2
+Kasei L.(Development of game-like factoring apps and websites)
+Kelvin C.(Script to search for available results)
+=============================================================
+10/9
+---------------------------------
+12.30
+Upwork-bid-50, message-2
+Visa Eagency(Image captcha labelling job (easy))
+Noa D.(Telegram: auto post)
+Nisha B.(CSS3: Need a subject matter)
+=============================================================
+10/10
+---------------------------------
+17.30
+Upwork-bid-110, message-4
+Matt Russel(PHP backend developer to build a PDF to Word Converter)
+Marwan Salih(Vue.js Application)
+David Sullivan(Scrap website for leads - output in Excel)
+Abhishek Singh(Data extraction)
+=============================================================
+10/11
+---------------------------------
+14.40
+Upwork-bid-136, message-6
+Rachael Butler(Wordpress Developer Needed)
+Shreya Jain(Building custom data scraping tools /codes)
+Vitalii Filimonov, ilab(From yoomoney.ru receiving a POST request with payment param)
+Darshil V.(AnyROR captcha solve + data scraping)
+Randeep Wilkhu, Realize.vc Limited(WhatsApp Export and Extraction and (GDrive, Export & Transfer))
+Claudio Sironi(Scrape data from pdf and populate in mysql , and AI integration t)
+=============================================================
+10/12
+---------------------------------
+13.40
+Upwork-bid-150, message-7
+Steve Rhode, N/A(UPC to Amazon ASIN Conversion Tool)
+Cedric Marveggio, HELENTO(Develop Face swap tool – where partial swaps are possible)
+Edosa Odaro(GIT theme deployment for GHOST CMS)
+Dhru Dane(Shopify Single product store Design)
+Abdel EL, Zatker(Automation to read prices and compares media price from 2 webs)
+Nitesh Puchhadiya, Web Code Genie(Read CID file in email for an image)
+Odusola Bimbi Philips, Bimbi Philips Limited(Landing page design and development)
+=============================================================
+10/13
+---------------------------------
+14.10
+Upwork-bid-120, message-7, video-(client: Zainab Saleem, duration: 5min, failed: Requirement conflict, about: requirements)
+Mirey Sh, Launch Valley(Wix Website)
+Shannon Flowers(Experienced Full Stack Dev. Needed to build custom Metaverse project)
+Roudha Bin Hezaim(Organic Sales Specialist for a Shopify Website)
+Zainab Saleem(Developer needed to create frontend with reactjs)
+Christy B(Recreate website to BIG Commerce site)
+Lokman S.(Angular and Net Core 7 Developer)
+Abhishek B.(Build AI based trading and Investing Platform)
+=============================================================
+10/14
+---------------------------------
+12.10
+Upwork-bid-150, message-8
+Muthami N.(Reviews/Tests QA needed for an Ecommerce ASAP)
+Nilay S.(Need flutter developer4)
+Luka Karsten B.(Bubble.io web app developer)
+sahil T.(Relume page design)
+Jonathon B.(Third Person Character Controller React Three Rapier)
+Gert B.(ASP.NET Core ERP System)
+Shashidhar H.(Digital product website)
+Baker J.(Customizable WhatsApp Widget for E-commerce Web Apps)
+=============================================================
+10/17
+---------------------------------
+3.45
+Upwork-bid-50, message-4
+Chaudhary A. Full-stack flutter developer REQUIRED instantly
+Ohad S. Wordpress programmatic SEO - generate hundreds of pages with code
+Dylan F. Help shopify/stripe
+Sourav T. Python Django Server Developer
+=============================================================
+10/18
+---------------------------------
+15.20
+Upwork-bid-150, message-3
+Dean B.(Senior Python Developer for Pair Programming)
+Aaron J.(SMS VOIP Developer)
+Dima I.(Build a book cabinet system with animations Laravel)
+=============================================================
+10/19
+---------------------------------
+14.00
+Upwork-bid-150, message-5, call-1(client: Simon, Result: Failed, About: requirements, Duration: 5 mins, 13.0-13.5)
+Kanonas R.(Frontend Web Developer)
+Deo M.(SACOSS System)
+Maria Q.(Web app developer)
+Smin R.(Go Zayaan Clone)
+Simon F.(Create a Webapp for document scanning)
+
+=============================================================
+10/20
+---------------------------------
+17.10
+Upwork-bid-150, message-4, call-1(client: Rytis, Result: Rejected, About: Requirements, Duration: 22.0-22.8)
+Rytis S.(API integration)
+Kovidh J.(Shopify)
+Shujaat S.(CRM)
+Remco J.(Optimising Pagespeed)
+=============================================================
+10/21
+---------------------------------
+9.30
+Upwork-bid-120
+message-3
+Nicde, Online Course System Dev
+Afshin, HTML Dev
+Shujant, CRM Dev
+call-3
+(client: Nicde, Result: Success, About: Requirements, Duration: 0.50-1.3)
+(client: Afshin, Result: Failed, Reason: Tech, About: Requirements, Duration: 4.10-4.18)
+(client: Shujant, Result: Failed, Reason: Tech, About: CRM, Duration: 1.50-1.55)
+=============================================================
+10/23
+---------------------------------
+8.30
+Upwork-bid-150
+message-3
+Muthami N.(QAs needed for reviews and tests for a website ASAP)
+Mudassar N.(React JS Developer who knows what is pixel perfect)
+mukesh P.(I need freelancer for app management.)
+=============================================================
+10/24
+---------------------------------
+17.40
+Upwork-bid-200, call-1(Josiah, 1:20-1:29, Requirements, Failed, Reason-tech)
+message-4
+Josiah N.(Go High Level Page and Sales Funnel Development)
+Zeng Z.(Long-term collaborative project)
+Chaim A.(Front end javascript developer)
+Facundo B.(PWA Landing Page for Production Company)
+=============================================================
+10/25
+---------------------------------
+17.30
+Upwork-bid-200, call-1(Emilio, 16.40-16.42, Ruby on Rails, Failed, Reason-tech)
+message-4
+Miljana N.(Looking for a developer to create a streaming platform)
+dustin B.(Website designer)
+Aaron L.(NodeJS Developer)
+Emilio(Ruby on Rails)
+=============================================================
+10/26
+---------------------------------
+18.10
+Upwork-bid-200, call-1(Miljana N., 20.30-20.45, Platform Dev, Failed, Reason-Budget)
+message-3
+Vikram A.(A paint brush on mobile web)
+Mohammed K.(Development of Tanzania Unified Payment Interface)
+Md Adnan H.(Need someone who can publishing my app to my google play console)
+=============================================================
+10/27
+---------------------------------
+16.10
+Upwork-bid-200, call-2
+Mahammed(16.40-16.55, Payment System Dev, Failed, Reason-tech)
+Sharli(13.40-13.48, AWS API, Failed, Reason-requirements)
+message-3
+Chris C.(Full Stack)
+Mashood A.(Full Stack Dev)
+Emily W.(Stripe Developer)
+=============================================================
+10/28
+---------------------------------
+11.10
+Upwork-bid-150
+call-1
+Yogesh B.(15:25-15:30, Failed, Reason-Budget)
+message- 3
+Hasan T(Telegram Bot Payment)
+Yogesh B.(React-Develpment)
+Ross D.(Flask)
+=============================================================
+10/30
+---------------------------------
+9
+Upwork-bid-150
+call-1(Bilal, Chrome Extension Dev, Failed: budget, 18.25-18.47)
+message- 3
+JIAO X.(Website building - selling videos)
+Tiffany M.(Seeking Experienced WordPress Developer)
+Ahmad T.(React UI changes)
+Carl S.(Website Dev)
+=============================================================
+10/31
+---------------------------------
+11.40
+Upwork-bid-150
+call-1(Alex, Wordpress, Failed: budget, 14.10-14.25)
+message- 3
+Alex(Web developer)
+Hussain K.(android app developer)
+Vincent H.(UX/UI Designer and Web Developer)
+=============================================================
+11/1
+---------------------------------
+16.10
+Upwork-bid-200
+call-1
+(Felix, Automation, 11.08-11.20, Failed-Budget)
+message-2
+(Felix G., Automation)
+(Siman N., YouTube API)
+=============================================================
+11/2
+---------------------------------
+13.30
+Upwork-bid-130
+call-1
+(Mahamed, Automation, 11.30-11.42, Failed-Budget)
+message-3
+(Martin P., Audio Capture: Browser Plugin & Windows OS Driver)
+(Mahamed N., Automation)
+(Muhammad W., Video Editor for YouTube Channel)
+=============================================================
+11/3
+---------------------------------
+14.40
+Upwork-bid-70, develop - (Wasm, budget: 300)
+message-2
+Pratik G.(Laravel)
+Anthony M.(web3)
+=============================================================
+11/6
+---------------------------------
+10.10
+Upwork-bid-100,
+message-1
+Akash Yadav(Full Stack Dev)
+=============================================================
+11/7
+---------------------------------
+13.0
+Upwork-bid-150,
+message-2
+Malli N.(RCP protocal)
+Jordan B.(ASP/C# .NET Developer)
+=============================================================
+11/8
+---------------------------------
+13.50
+Upwork-bid-150,
+message-3
+Andrew H.(Google Ads API & MySQL)
+Will H.((CRO) Expert for Shopify / Ecommerce Projects)
+Juan Carlos R.(Create an AI system with an avatar that can process a voice message)
+=============================================================
+11/9
+---------------------------------
+17.50
+Upwork-bid-100,
+message-2
+James M.(Logo design)
+Votyar C.(Need Someone for Long term Projects)
+=============================================================
+11/10
+---------------------------------
+13.00
+Upwork-bid-100,
+message-1
+Wildfire E.(White Hat Developer needed for ongoing work)
+=============================================================
+11/11
+---------------------------------
+10.00
+Upwork-bid-100,
+message-2
+Kolime J.(Extract Data Product)
+Ibrahim K.(Uniswap Data Extraction Specialist for Crypto Telegram Channel)
+=============================================================
+11/13
+---------------------------------
+10.00
+Upwork-bid-50, Job-bid-50
+message-1
+Preston(React Developer)
+=============================================================
+11/14
+---------------------------------
+13.28
+Upwork-bid-100
+message-3
+Aryan Shirani(Twitter Video Media link grabber)
+Almas Khosti(Replicate Study for Existing Paper)
+Adrian Sweetland(Web Scraping & Spreadsheet of Top 100 VARs and UK MSPs)
+=============================================================
+11/15
+---------------------------------
+11.35
+Upwork-bid-70
+message-2
+James Lupton(Chat GPT Based Product Descriptions)
+Natalie Premock(CRM Expert)
+=============================================================
+11/16
+---------------------------------
+17
+Upwork-bid-70, job-bid-30
+message-2
+Akash Kumar(Data Engineer)
+Mohammed Abdus(AI Chatbot Expert )
+call-2
+Caller:WKH, Assistant: SK, Call Machine 6, Meeting with Preston(Discussed about Test) 05:00~05:12, Result: failed-requirement
+Caller:RRC, Assistant: SK, Call Machine 6, Meeting with Preston(Discussed about Test) 05:50~06:10, Result: failed-test time
+=============================================================
+11/17
+---------------------------------
+10.10
+Upwork-bid-50, job-bid-30
+message-1
+Qazi Farjad(Shopify)
+=============================================================
+11/18
+---------------------------------
+15.30
+Upwork-bid-80
+message-1
+Oskar Lilja (AI)
+=============================================================
+11/20
+---------------------------------
+7.30
+Upwork-bid-30, job-bid-30
+message-0
+=============================================================
+11/21
+---------------------------------
+16.10
+Upwork-bid-100
+message-2
+Shahid I.(Lead Generation)
+Sai R.(AI ML Project)
+=============================================================
+11/22
+---------------------------------
+11.0
+Upwork-bid-100
+meeting-2
+Caller:WKH, Assistant: ZYS, Call Machine 4, Meeting with GGSA Company(Discussed about Plans of project) 03:35~03:45, Result: failed-requirements
+Caller:WKH, Assistant: SK, Call Machine 6, Meeting with Shaid Company(Discussed about Plans of project) 02:10~02:22, Result: failed-requirements
+message-2
+GGSA(Product Manager)
+Shaid(DeepStreem Processing)
+=============================================================
+11/23
+---------------------------------
+13.16
+Upwork-bid-100
+meeting-2
+Caller:KJH, Assistant: WKH, Call Machine 2, Meeting with Justin(Discussed about AI Image Generator) 3:45~3:50, Result: failed-tech
+Caller:KJH, Assistant: WKH, Call Machine 3, Meeting with Charllie(Discussed about AI Stock Marketing Game) 12:45~13:05, Result: failed-requirements
+message-2
+Justin(AI Image Generator)
+Charllie(AI Stock Marketing Game)
+
+=============================================================
+11/24
+---------------------------------
+12.42
+Upwork-bid-100
+message-1
+Muhammad A.(Shopify)
+=============================================================
+11/25
+---------------------------------
+18.10
+Upwork-bid-100
+message-1
+Ben P.(Find Influencers in Email List)
+=============================================================
+11/27
+---------------------------------
+7.0
+Upwork-bid-50
+message-1
+Utkarsh R.(Full Stack Developer)
+=============================================================
+11/28
+---------------------------------
+12.10
+Upwork-bid-100
+meeting-1
+Caller:OJG, Assistant: WKH, Call Machine 717, Meeting with Hazel(Discussed about Machine Learning Project) 16:48~17:26, Result: failed-budget
+message-1
+Hazel(Machine Learning)
+=============================================================
+11/29
+---------------------------------
+14.10
+Upwork-bid-100
+message-2
+Srushti A.(Building AI System)
+Oni A.(Big Data Science Project)
+=============================================================
+11/30
+---------------------------------
+13.20
+Upwork-bid-100
+message-2
+Osman Ahsan S.(Python AI Developer)
+Shweta T.(Freshworks Specialist)
+=============================================================
+12/1
+---------------------------------
+16.10
+Upwork-bid-70
+meeting-1
+Caller:WKH , Assistant: KHJ, Call Machine 701, Meeting with Milly(Discussed about Blockchain simple project to integrate serviced API) 1:30-1:45, Result: failed-budget
+message-1
+Milly(Blockchain)
+done task: Building Sales KPI Dashboard to visualize the sale data from Energybit Website with KHJ 
+=============================================================
+12/2
+---------------------------------
+7.0
+Upwork-bid-50
+meeting-1
+Caller:OJG , Assistant: WKH, Call Machine 717, Meeting with Matthew(Discussed about concept for win-loss analysis product) 2:28-2:45, Result: failed-budget
+message-2
+Liron F.(LinkedIn Scraper)
+Matthew J.(Proof of concept for win-loss analysis product)
+=============================================================
+12/4
+---------------------------------
+5.30
+Upwork-bid-50
+message-1
+David P.(Funnel Building Expert + Designer)
+=============================================================
+12/5
+---------------------------------
+13.50
+Upwork-bid-100
+message-2
+Tahir Yildiz (scrapes data and provide product review using AI)
+Joseph Cooper(Video Shortner Project)
+=============================================================
+12/6
+---------------------------------
+11.80
+Upwork-bid-100
+meeting-2
+Caller:WKH , Assistant: ZYS, Call Machine 3, Meeting with Dave M.(Discussed about Automating Downloads with Python & Selenium XHR) 1:20-1:30, Result: failed-budget
+Caller:WKH , Assistant: ZYS, Call Machine 3, Meeting with Harsh K.(Discussed about concept for Web Clip Editor Tool) 14:20-14:35, Result: failed-budget
+message-3
+Dave M.(Selenium)
+Kushal K.(Sports Site Dev)
+Harsh K.(Web Clip Editor Tool Developer)
+=============================================================
+12/7
+---------------------------------
+16.0
+Upwork-bid-100
+meeting-2
+Caller:WKH , Assistant: ZYS, Call Machine 3, Meeting with Emmanuel M.(Discussed about revamping website) 17:10-17:20, Result: failed-budget
+Caller:WKH , Assistant: YTH, Call Machine 2, Meeting with Chrishna H.(Discussed about concept for React project) 8:30-8:47, Result: failed-tech
+message-2
+Emmanuel M.(Revamping website)
+Chrishna H.(Web develop)
+=============================================================
+12/9
+---------------------------------
+7.50
+Upwork-bid-70
+message-1
+Muhammad H.(Looking for AWS DevOps & Solutions Architect)
+=============================================================
+12/11
+---------------------------------
+6.00
+Upwork-bid-30, job-bid-10
+=============================================================
+12/12
+---------------------------------
+14.20
+Upwork-bid-100
+message-1
+Aman Sharma(AI/ML - Tech Lead)
+=============================================================
+12/13
+---------------------------------
+10.30
+Upwork-bid-70
+message-2
+Muhammad H.(Scrape Reviews from Google for 698 Companies)
+Idan B. (Looking for an ai engineer for processing images)
+=============================================================
+12/14
+---------------------------------
+9.10
+Upwork-bid-70
+message-2
+Brendann A. (AI Systems & Chatbot Developer for Real Estate Professionals)
+Rana A. (Need an AI Developer)
+=============================================================
+12/15
+---------------------------------
+13.08
+Upwork-bid-70
+message-2
+Jason S.(Scrape Contact Data of Airport Staff)
+Brendann A.(AI Systems & Chatbot Developer for Real Estate Professionals)
+=============================================================
+12/16
+---------------------------------
+13.30
+Upwork-bid-70
+message-2
+Tanush M.(Need a Cybersecurity & Security team to review our GoLang Based Application)
+John M. (You have unread messages about the job AI email identifier)
+=============================================================
+12/18
+---------------------------------
+13.30
+Upwork-bid-70
+meeting-1
+Caller:KHJ , Assistant: WKH, Call Machine 4, Meeting with Bojan(Discussed about Web Design) 15:45-15:53, Result: failed-requirements
+message-1
+Sven H.(Expert Developer: Web Crawling, Browser Automation, Selenium / curl / whet)
+=============================================================
+12/19
+---------------------------------
+12.20
+Upwork-bid-70
+
+message-1
+Niranjan I. (Data Scraping)
+=============================================================
+12/20
+---------------------------------
+12.30
+Upwork-bid-60
+message-1
+Hamza Bin S.(Data Scraper)
+=============================================================
+12/21
+---------------------------------
+13.40
+Upwork-bid-80
+message-2
+Aditya (Computer Vision)
+Chat(Scraping)
+=============================================================
+12/22
+---------------------------------
+15.30
+Upwork-bid-100
+message-2
+Mudit Sinha(Hire a ML Engineer)
+Sofian Zergani(Data extraction (letters + numbers) from a video file in Excel)
+
+=============================================================
+12/23
+---------------------------------
+7.34
+Upwork-bid-40
+message-1
+Clara Newman(DeFi Analyst)
+=============================================================
+12/25
+---------------------------------
+7.0
+Upwork-bid-40
+message-0
+=============================================================
+12/26
+---------------------------------
+13.0
+Upwork-bid-70
+message-1
+Mudassar Farooq(Machine Learning Engineer who can help run SEEM Model Locally)
+=============================================================
+12/27
+---------------------------------
+11.30
+Upwork-bid-60
+=============================================================
+12/28
+---------------------------------
+14.00
+Upwork-bid-80
+Kyle T.(Python Scraper)
+Omar S.(AI/ML)
+=============================================================
+12/29
+---------------------------------
+12.10
+Upwork-bid-70
+Michael(Data Scrapping and Extraction from LinkedIn)
+=============================================================
+========================= 2023 ==============================
+=============================================================
+1/3
+---------------------------------
+5.00
+Upwork-bid-30
+=============================================================
+1/4
+---------------------------------
+13.14
+Upwork-bid-60
+message-2
+Ekim K.(front end expert)
+Jovana V.(Senior Rust developer)
+meeting-1
+Caller:CHR , Assistant: WKH, Call Machine 4, Meeting with Jovana(Rust Tech call) 03:40-03:41, Result: failed-Face contrast
+
+=============================================================
+1/5
+---------------------------------
+12.14
+Upwork-bid-70
+message-2
+Vipin A.(Data Extraction Linkedin and others)
+Guy A.(Real-time Emotion Analysis Software)
+=============================================================
+1/6
+---------------------------------
+3.00
+Upwork-bid-30
+message-1
+Sang Won H.(Glassdoor Reviews & Ratings Web Scraping)
+=============================================================
+1/8
+---------------------------------
+1.03
+Upwork-bid-15
+=============================================================
+1/9
+---------------------------------
+13.03
+Upwork-bid-90
+message-2
+Sam S.(REAL TIME DATA EXTRACTION FROM GOOGLE FINANCE OR OTHER WEBSITES USING API)
+Samuel I.(Chat GPT Vision API Image Categorization)
+meeting-2
+Caller:WKH , Assistant: YTH, Call Machine 3, Meeting with Ashfaq Rahman(Google Plus / Google Place Crawler) 08:20-08:25, Result: continue-testing
+Caller:WKH , Assistant: ZYS, Call Machine 4, Meeting with Sam Sam(REAL TIME DATA EXTRACTION FROM GOOGLE FINANCE) 16:29-16:40, Result: failed-internet issue
+=============================================================
+1/10
+---------------------------------
+11.45
+Upwork-bid-70
+message-2
+Shubham A. (Looking For Collaboration in AI and ML Industry)
+Jackie C.(Chrome Extension Scraper)
+meeting-1
+Caller:WKH , Assistant: ZYS, Call Machine 4, Meeting with Jackie C.(Chrome Extension Scraper) 15:24-15:37, Result: failed-connection issue
+=============================================================
+1/11
+---------------------------------
+12.15
+Upwork-bid-80
+message-2
+William P.(Data Scraping Automation For Insight Analytics)
+Rauan I.(Seeking Experienced Python Developer for Enhancing Wiki XML Parsing Script)
+=============================================================
+1/12
+---------------------------------
+11.02
+Upwork-bid-60
+message-1
+Ali I.(Extract Data Custom ETL)
+=============================================================
+1/13
+---------------------------------
+13.10
+Upwork-bid-70
+message-1
+Pruthak Acharya(Experience Scraper Needed for Complex Platforms)
+=============================================================
+1/14
+---------------------------------
+6.15
+Upwork-bid-40
+message-2
+Sunil Goel(AWS QuickSight Expert)
+Rob Schutz(Domain Researcher -- Help Needed Finding domain name owners)
+meeting-1
+Caller:KHJ , Assistant: WHK, Call Machine 4, Meeting with Sunil Goel(AWS QuickSight Expert) 16:10-16:39, Result: continue-testing
+=============================================================
+1/16
+---------------------------------
+12.10
+Upwork-bid-50
+message-1
+Higor R.(AI-powered knowledge base)
+=============================================================
+1/17
+---------------------------------
+12.30
+Upwork-bid-40
+message-1
+Matthew H.(Web Database Scrape / Extraction)
+=============================================================
+1/18
+---------------------------------
+13.0
+Upwork-bid-50
+message-2
+Nina Streb(AI Picture / Video Specialist)
+Mumtaz Ahmed(Data Scraping for a Real Estate Company)
+=============================================================
+1/19
+---------------------------------
+12.30
+Upwork-bid-50
+message-1
+Narayan I.(AI Image generation APIs)
+=============================================================
+1/20
+---------------------------------
+13.00
+Upwork-bid-50
+message-1
+Chris A.(Bypass Bot Blocking)
+=============================================================
+1/22
+---------------------------------
+4.00
+Upwork-bid-20
+message-1
+Mike B.(Call GPTinf from Custom GPT)
+=============================================================
+1/23
+---------------------------------
+13.00
+Upwork-bid-50
+message-1
+Nihar(Web Scraping)
+meeting-1
+Caller:WKH , Assistant: ZYS, Call Machine 4, Meeting with Nihar(Web Scraping) 15:08-15:12, Result: failed-budget
+Thesis-Completed Overview
+=============================================================
+1/24
+---------------------------------
+14.00
+Upwork-bid-60
+message-1
+Alan Aastorp(Data Analyst, Google Map)
+meeting-1
+Caller:WKH , Assistant: ZYS, Call Machine 4, Meeting with Alan Aastorp(Data Analyst, Google Map), 15:12-15:27, Result: continue-test
+Thesis-Completed 5%
+=============================================================
+1/25
+---------------------------------
+14.10
+Upwork-bid-50
+message-2
+Saad L.(Indeed Scraping)
+Tarek A.(Prompt Engineering Project)
+Thesis-Completed 10%
+=============================================================
+1/26
+---------------------------------
+11.50
+Upwork-bid-40
+message-1
+Abhishek G.(Machine learning)
+Thesis-Completed 15%
+=============================================================
+1/27
+---------------------------------
+13.0
+Upwork-bid-40
+meeting-1
+Caller:RUB , Assistant: WKH, Call Machine 4, Meeting with Abhishek G.(Machine learning) 00:40-01:12, Result: failed-budget
+Thesis-Completed 15%
+=============================================================
+1/29
+---------------------------------
+6.30
+Upwork-bid-30
+message-1
+Tomas G.(AI Technologies France market)
+Thesis-Completed 20%
+=============================================================
+1/30
+---------------------------------
+16.0
+Upwork-bid-40
+message-1
+Siddharth J.(Improve scraper)
+Thesis-Completed 25%
+=============================================================
+1/31
+---------------------------------
+15.0
+Upwork-bid-40
+message-2
+Sebastien D.(Web scraping)
+Rodrigo O.(Data scientist to improve predictive model by adding weather data)
+Thesis-Completed 30%
+=============================================================
+2/1
+---------------------------------
+13.10
+Upwork-bid-40
+message-2
+Mladen D.(Data Extraction)
+Avinoham E.(Scraping)
+meeting-1
+Caller:WKH , Assistant: ZYS, Call Machine 4, Meeting with Avinoham E.(Scraping) 02:10-02:35, Result: failed-budget
+Thesis-Completed 35%
+=============================================================
+2/1
+---------------------------------
+13.30
+Upwork-bid-40
+Thesis-Completed 40%
+=============================================================
+2/1
+---------------------------------
+10.40
+Upwork-bid-30
+message-1
+Husayn Moody(Web Scraper)
+Thesis-Completed 50%
+=============================================================
+2/5
+---------------------------------
+6.00
+Upwork-bid-20
+message-1
+Tushar Bharthare(SEO , Digital marketing using AI tools)
+Thesis-Completed 3-Chapter-10%
+=============================================================
+2/6
+---------------------------------
+13.00
+Upwork-bid-70
+message-1
+Jonathan gheller(RealPage API and integrations expert)
+Thesis-Completed 3-Chapter-50%
+=============================================================
+2/8
+---------------------------------
+12.40
+Upwork-bid-100
+message-2
+LyDia(Apify)
+Meir W.(AI)
+meeting-1
+Caller:WKH , Assistant: ZYS, Call Machine 4, Meeting with Meir(AI) 02:50-02:58, Result: failed-requirements
+Thesis-Completed 4-Chapter-50%
+=============================================================
+2/9
+---------------------------------
+12.30
+Upwork-bid-50
+message-2
+Simon(Web Platform Development)
+meeting-1
+Caller:KHJ , Assistant: WKH, Call Machine 4, Meeting with Simon(Web Platform Development) 01:25-01:35, Result: failed-requirements
+Thesis-Completed 4-Chapter-100%
+=============================================================
+2/10
+---------------------------------
+6.40
+Upwork-bid-30
+message-1
+Louis C.(DevOps)
+Thesis-Completed 4-Chapter-100%
+=============================================================
+2/12
+---------------------------------
+8.20
+Upwork-bid-100
+message-1
+Melissa H.(Microsoft copilot studio)
+meeting-2
+Caller:KJH, Assistant: WKH, Call Machine 3, Meeting with LyDia(Airbnb Database and Dashboard Dev) 08:00-08:20, Result: pass
+Caller:WKH, Assistant: YTH, Call Machine 3, Meeting with Melissa H.(Microsoft copilot studio) 15:10-15:18, Result: failed-budget
+Task-accept-1
+Client: LyDia, Canada
+Title:Airbnb Database and Dashboard Dev
+Hourly Rate-30$/hour
+Timeframe - 2 weeks
+paid- 600
+=============================================================
+2/13
+---------------------------------
+13.30
+Upwork-bid-50
+message-1
+Leilani Hoffman(Blockchain Game Data Scientist)
+meeting-1
+Caller:WKH, Assistant: ZYS, Call Machine 4, Meeting with Leilani and Zavin(Blockchain Game Data Scientist) 06:20-06:45, Result: failed-budget
+project-progress-6 hours
+=============================================================
+2/14
+---------------------------------
+14.30
+Upwork-bid-30
+message-1
+Badrinath S.(ci/cd pipeline using Jenkins integrate with sonar+prismacloud)
+project-progress-8 hours
+=============================================================
+2/15
+---------------------------------
+12.40
+Upwork-bid-20
+message-1
+Denis J.(web builder)
+meeting-1
+Caller:WKH, Assistant: YTH, Call Machine 3, Meeting with Denis J.(web builder) 11:15-11:30, Result: failed-budget
+project-progress-10 hours, 
+=============================================================
+2/16
+---------------------------------
+12.20
+Upwork-bid-40
+project-progress-10 hours
+=============================================================
+2/17
+---------------------------------
+14.40
+Upwork-bid-20
+Caller:KJH, Assistant: WKH, Call Machine 3, Meeting with LyDia(Figma Design Check For Dashboard Website) 08:00-08:15, Result: pass
+project-progress-7 hours
+=============================================================
+2/19
+---------------------------------
+5:20
+Upwork-bid-30
+Pay - 1135
+project-progress-3 hours
+=============================================================
+2/20
+---------------------------------
+13.0
+Upwork-bid-30
+message-1
+Husayn Moody(Web Scraper)
+project-progress-4 hours
+=============================================================
+2/21
+---------------------------------
+12.0
+Upwork-bid-50
+message-1
+Pavlo C.(DevOps | Dockerize app and deploy to VPS)
+project-progress-6 hours
+=============================================================
+2/22
+---------------------------------
+11.0
+Upwork-bid-40
+message-1
+Lknath V.(Telegram Bot for searching similiar images in telegram)
+meeting-1
+Caller:WKH, Assistant: RRC, Call Machine 5, Meeting with Lknath V.(Telegram Bot) 12:10-12:22, Result: failed-budget
+project-progress-3 hours
+=============================================================
+2/23
+---------------------------------
+11.0
+Upwork-bid-50
+message-1
+Mofassiruj J.(Data analyst)
+project-progress-3 hours
+=============================================================
+2/24
+---------------------------------
+10.0
+Upwork-bid-30
+project-progress-4 hours
+=============================================================
+2/26
+---------------------------------
+5.10
+Upwork-bid-20
+project-progress-3 hours
+=============================================================
+2/27
+---------------------------------
+11.0
+Upwork-bid-15
+project-progress-5 hours
+=============================================================
+2/28
+---------------------------------
+10.30
+Upwork-bid-50
+project-progress-2 hours
+=============================================================
+2/29
+---------------------------------
+12.0
+Upwork-bid-50
+message-1
+Sergey D.(Novatek 98529 AI Software)
+project-progress-1 hours
+=============================================================
+3/2
+---------------------------------
+13.0
+Upwork-bid-30
+message-1
+Tristan M.(3D Model Data Scraper)
+=============================================================
+3/2
+---------------------------------
+13.0
+Upwork-bid-40
+=============================================================
+3/4
+---------------------------------
+6.0
+Upwork-bid-60
+=============================================================
+3/6
+---------------------------------
+12.20
+Upwork-bid-60
+message-3
+Boiler M.(Expert Databricks sql Developer)
+Vishy K.(Predictive model for two parameters based on AI-ML from attached excel)
+Tanuj Rai T.(AI GPT style chatbot)
+=============================================================
+3/7
+---------------------------------
+11.30
+Upwork-bid-60
+message-2
+Aymen B.(Ai image generator specialist)
+Luca R.(Artificial Intelligence & Innovation Manager)
+=============================================================
+3/8
+---------------------------------
+12.30
+Upwork-bid-70
+message-1
+Project C.(AI / Machine Learning Engineer)
+=============================================================
+3/9
+---------------------------------
+6.30
+Upwork-bid-30
+=============================================================
+3/11
+---------------------------------
+6.00
+Upwork-bid-20
+message-1
+Alya F.(Machine Learning Assistant for Feature Extraction specifically using PointNet / PointNet++ model)
+=============================================================
+3/12
+---------------------------------
+13.20
+Upwork-bid-50
+message-1
+Ashish Prasad(Local recommendation system using voice ai)
+=============================================================
+3/13
+---------------------------------
+13.00
+Upwork-bid-50
+message-1
+Suresh K.(Data Visualization Apache Superset)
+=============================================================
+3/14
+---------------------------------
+12.30
+Upwork-bid-50
+message-1
+Tiz G.(Language Learning Model (LLM) for internal company knowledge base, meetings, transcripts, docs etc)
+=============================================================
+3/15
+---------------------------------
+13.00
+Upwork-bid-50
+message-2
+Ross B.(Data Scientist with a strong background in NLP, Neo4J and LangChain)
+Jacky D.(Use Chatgpt or any AI to detect the emotion of my text)
+meeting-1
+Caller: HDY, Assistant: WKH, Call Machine 4, Meeting with Ross B.(Data Scientist with a strong background in NLP, Neo4J and LangChain) 3:00-3:29, Result: failed-background
+=============================================================
+3/16
+---------------------------------
+12.40
+Upwork-bid-40
+message-1
+Abraham A.(Arbitrage Bot)
+=============================================================
+3/18
+---------------------------------
+2.00
+Upwork-bid-10
+=============================================================
+3/19
+---------------------------------
+13.20
+Upwork-bid-55
+message-1
+Mayank B.(Crawler support)
+=============================================================
+3/20
+---------------------------------
+12.30
+Upwork-bid-60
+message-2
+Rene A.(Extend a data mining tool built in Python to be multilingual)
+Spirant C.(AI powered Medical Chatbot for Patient Information)
+meeting-1
+Caller: WKH, Assistant: RRC, Call Machine 5, Meeting with Rene A.(Extend a data mining tool built in Python to be multilingual) 17:00-17:13, Result: failed-unaccessable platform
+=============================================================
+3/21
+---------------------------------
+13.20
+Upwork-bid-65
+message-1
+Alex Szabo(Seeking ML Developer for Accessibility Issue Detection in Documents - WCAG 3.1)
+meeting-1
+Caller: WKH, Assistant: ZYS, Call Machine 4, Meeting with Alex Szabo(Seeking ML Developer for Accessibility Issue Detection in Documents - WCAG 3.1) 23:10-23:23, Result: failed-requirements
+=============================================================
+3/22
+---------------------------------
+13.30
+Upwork-bid-45
+message-1
+Shubham A.(Exciting Opportunity for AI and ML enthusiasts to collaborate on groundbreaking projects)
+meeting-1
+Caller: WKH, Assistant: ZYS, Call Machine 4, Meeting with Shubham A.(Exciting Opportunity for AI and ML enthusiasts to collaborate on groundbreaking projects) 15:15-15:35, Result: failed-budget
+=============================================================
+3/23
+---------------------------------
+6.30
+Upwork-bid-30
+message-1
+Daniel J.(Deep Learning Engineer)
+=============================================================
+3/25
+---------------------------------
+7
+Upwork-bid-35
+message-1
+Rameez A.(Voice Bot For Vicidial)
+=============================================================
+3/26
+---------------------------------
+13.10
+Upwork-bid-50
+message-2
+James R.(Jenkins script that connects to an AWS RDS database via a jump server and runs an AWR report)
+Jean C.(Machine Learning Models)
+meeting-1
+Caller: WKH, Assistant: YTH, Call Machine 3, Meeting with James R.(Jenkins script that connects to an AWS RDS database via a jump server and runs an AWR report) 5:0-5:5, Result: failed-too low budget
+=============================================================
+3/27
+---------------------------------
+11.30
+Upwork-bid-50
+message-1
+Kyle W.( Expert AI Engineer Needed for Cutting-Edge Social Media Content Optimization Platform)
+=============================================================
+3/28
+---------------------------------
+13.00
+Upwork-bid-60
+message-2
+Kyle W.( Expert AI Engineer Needed for Cutting-Edge Social Media Content Optimization Platform)
+Cor S.(Data Analyst for Sport Related Data)
+meeting-1
+Caller: WKH, Assistant: RRC, Call Machine 5, Meeting with Kyle W.( Expert AI Engineer Needed for Cutting-Edge Social Media Content Optimization Platform) 1:45-2:0, Result: failed-social media related task
+
+=============================================================
+3/28
+---------------------------------
+13.00
+Upwork-bid-60
+message-2
+Rameez A.(Voice Bot For Vicidial)
+Gaurav K.(building a bandwidth prediction model for MPLS routers)
+meeting-2
+Caller: WKH, Assistant: RRC, Call Machine 5, Meeting with Rameez A.(Voice Bot For Vicidial) 14:15-14:47, Result: failed-low budget
+Caller: WKH, Assistant: YTH, Call Machine 3, Meeting with Gaurav K.(building a bandwidth prediction model for MPLS routers) 17:23-17:36, Result: failed-requirements conflict
+=============================================================
+3/30
+---------------------------------
+6.00
+Upwork-bid-35
+message-1
+Walid T.(Appointment booking bot)
+=============================================================
+4/1
+---------------------------------
+2.10
+Upwork-bid-20
+=============================================================
+4/2
+---------------------------------
+13.10
+Upwork-bid-70
+message-2
+HC L.(I need someone to create a web-based video processing tool using AI)
+Panagiotis-Dimitrios N.(Create CNN models and Vits for the ham10000 dataset for skin cancer detection)
+meeting-2
+Caller: WKH, Assistant: YTH, Call Machine 5, Meeting with HC L.(I need someone to create a web-based video processing tool using AI) 1:10:15-1:19, Result: failed-low budget
+Caller: WKH, Assistant: YTH, Call Machine 5, Meeting with Panagiotis-Dimitrios N.(Create CNN models and Vits for the ham10000 dataset for skin cancer detection) 4:45-5:02, Result: failed-low budget
+=============================================================
+4/3
+---------------------------------
+12.10
+Upwork-bid-60
+message-2
+Shelly T.(Web Scraper)
+Daisuke K.(Development of deep learning method for cell segmentation)
+meeting-1
+Caller: WKH, Assistant: YTH, Call Machine 3, Meeting with Shelly T.(Web Scraper) 0:58-1:04, Result: failed-identity issues
+=============================================================
+4/4
+---------------------------------
+13.0
+Upwork-bid-55
+message-2
+Andy A.(Scrapping website Airline)
+Nakul D.(Write an Ebook on Algorithms)
+=============================================================
+4/5
+---------------------------------
+12.0
+Upwork-bid-50
+message-1
+Abraham A.(Arbitrage Bot)
+=============================================================
+4/6
+---------------------------------
+5.30
+Upwork-bid-40
+message-2
+Steve S.(AI developers with Google Vertex)
+Darius Z.(Senior NLP Engineer / LLM Architect)
+=============================================================
+4/8
+---------------------------------
+6.20
+Upwork-bid-35
+message-1
+Gis K.(Azure Certified Engineer)
+meeting-1
+Caller: WKH, Assistant: ZYS, Call Machine 4, Meeting with Gis K.(Azure Certified Engineer) 15:45-15:52, Result: failed-requirements conflict
+=============================================================
+4/9
+---------------------------------
+12.10
+Upwork-bid-45
+message-2   
+Benes H.(Binance data feed API apply to Ninjatrader)
+Cher N.(AI Lip Sync & Voice Cloning Technician)
+meeting-2
+Caller: WKH, Assistant: ZYS, Call Machine 4, Meeting with Benes H.(Binance data feed API apply to Ninjatrader) 16:10-16:23, Result: failed-low budget
+Caller: HDY, Assistant: WKH, Call Machine 5, Meeting with Cher N.(AI Lip Sync & Voice Cloning Technician) 18:00-18:30, Result: failed-identity issue
+=============================================================
+4/10
+---------------------------------
+13.20
+Upwork-bid-40
+message-1
+Ment S.(AI developer)
+=============================================================
+4/11
+---------------------------------
+13.10
+Upwork-bid-45
+message-2
+Mark F.(Run converted Tflite-Model(LSTM) on Samsung Smartwatch / Android Studio)
+Stephan K.(Job Scraper and Candidate Scraper with AI)
+=============================================================
+4/12
+---------------------------------
+13.10
+Upwork-bid-45
+message-1  
+Sehvan F.(Large Language Model (LLM) Installation Specialist)
+meeting-1
+Caller: HDY, Assistant: WKH, Call Machine 4, Meeting with Sehvan F.(Large Language Model (LLM) Installation Specialist) 1:23-1:47, Result: failed-requirements conflict
+=============================================================
+4/13
+---------------------------------
+7.0
+Upwork-bid-25
+message-2
+Vincent O.(Diffusion Models for Tabular data using Deep Learning (PyTorch))
+Jack D.(TTS expert)
+=============================================================
+4/15
+---------------------------------
+5.30
+Upwork-bid-20
+message-1 
+Sean C.(GPT Creator)
+=============================================================
+4/16
+---------------------------------
+13.10
+Upwork-bid-60
+message-1 
+Malko B.(Chatbot)
+=============================================================
+4/17
+---------------------------------
+12.10
+Upwork-bid-55
+message-2
+mike V.(Website/App development)
+Ashant C.(Fine-Tuning & Training of LLM Models)
+meeting-1
+Caller: WKH, Assistant: ZYS, Call Machine 4, Meeting with mike V.(Website/App development) 2:23-2:37, Result: failed-low budget
+=============================================================
+4/18
+---------------------------------
+13.20
+Upwork-bid-65
+message-3
+Renato Baccaro(AI - Prototype - Run Responses from Canned Questions on a Business Dataset)
+Ashant Chalasani(Fine-Tuning & Training of LLM Models)
+Renallene Prestoza(LinkedIn Scraping - Automation Scipting)
+=============================================================
+4/19
+---------------------------------
+12.20
+Upwork-bid-60
+message-2
+Creatory W.(AI model Multilingual Talking Head Avatar with AI)
+Arpit Singhal(Full Stack Developer)
+=============================================================
+4/20
+---------------------------------
+13.20
+Upwork-bid-65
+message-2
+Anuranjan T.(AI engineer required for fine tuning Open AI models)
+John Y.(Implement HyperFeeder and build plugin)
+=============================================================
+4/22
+---------------------------------
+6.10
+Upwork-bid-35
+message-3
+Stefan N.(Machine Learning Engineer / Web Developer to deploy AI model (Llama 3))
+Karl L.(Scraping)
+Tomer W.(Create OCR for combined English & I.A.S.T)
+=============================================================
+4/23
+---------------------------------
+14.20
+Upwork-bid-55
+message-2
+Christophe D.(IBM Freelance Needed)
+Brijesh A.(Instagram Scraper for Bio, Email, and Phone Number Retrieval)
+meeting-2
+Caller: WKH, Assistant: ZYS, Call Machine 4, Meeting with Christophe D.(IBM Freelance Needed) 15:00-15:24, Result: failed-Tech Interview
+Caller: WKH, Assistant: ZYS, Call Machine 4, Meeting with Tomer W.(Create OCR for combined English & I.A.S.T) 16:30-16:41, Result: failed-low budget
+=============================================================
+4/24
+---------------------------------
+13.40
+Upwork-bid-60
+message-3
+Farjana M.(Using fibbing controller in network to detect link failure and then create tunnel)
+Rolf G.(AI, Multiagent, Agentic / Python / Vision AI / Web scraping Project)
+John M.(AI Agents Expert - FinTech (Banking, Lending, Deposits))
+meeting-1
+Caller: WKH, Assistant: YTH, Call Machine 3, Meeting with Farjana M.(Using fibbing controller in network to detect link failure and then create tunnel) 15:10-15:23, Result: failed-requirements conflict
+=============================================================
+4/25
+---------------------------------
+13.20
+Upwork-bid-60
+Job-bid-10
+message-3
+Sven Gustafson(Online Material Selection Tool for Homebuilders)
+Anton Parfeniuk(Build web scraper in Python to scrape a website)
+Alex Milani(Experienced Web Scraper for Hospital Safety Grade Data Extraction Project)
+=============================================================
+4/26
+---------------------------------
+12.40
+Upwork-bid-65
+message-2
+Malcolm D.(E-commerce Machine Learning & Data Specialist)
+Rafael G.(Full Stack Blockchain Developer)
+meeting-1
+Caller: RUB, Assistant: WKH, Call Machine 4, Meeting with Malcolm D.(E-commerce Machine Learning & Data Specialist) 16:00-16:40, Result: failed-low budget
+=============================================================
+4/27
+---------------------------------
+7.30
+Upwork-bid-40
+message-2
+Thomas Garrow(Machine learning or other AI application for calling optimization)
+Uri Shay(AI Cloud Solutions Architect)
+=============================================================
+4/29
+---------------------------------
+6.30
+Upwork-bid-40
+message-3
+Das M.(Creating Voice Bot)
+Jose N.(Binance Bot)
+Munish J.(Creating 3d Model using Blender Script)
+=============================================================
+4/30
+---------------------------------
+13.20
+Upwork-bid-70
+message-4
+Vlad K.(Machine Learning Engineer in startup (full-time))
+Ali A.(Development of an AI website specialised in technique analysis)
+Camille G.(AI Language Model Specialist - Girlfriend application)
+Yacine B.(Web Scraping Developer for E-Commerce Data Integration into Marketplace Platform)
+=============================================================
+5/1
+---------------------------------
+13.30
+Upwork-bid-70
+message-4
+Ali A.(Development of an AI website )
+Andy K.(Andy Kveps, United Safety Ltd.)
+Martin K.(Wordpress)
+Andrew B.(Blockchain Support)
+meeting-4
+Caller: WKH, Assistant: YTH, Call Machine 3, Meeting with Ali A.(Development of an AI website ) 2:36-2:40, Result: failed-low budget
+Caller: WKH, Assistant: YTH, Call Machine 3, Meeting with Andy K.(Andy Kveps, United Safety Ltd.) 4:15-4:20, Result: failed-low budget
+Caller: WKH, Assistant: YTH, Call Machine 3, Meeting with Martin K.(Wordpress) 16:30-16:40, Result: failed-requirements conflict
+Caller: HGS, Assistant: WKH, Call Machine 1, Meeting with Andrew B.(Blockchain Support) 6:00-6:35, Result: failed-low budget
+=============================================================
+5/2
+---------------------------------
+13.30
+Upwork-bid-65
+message-1
+Diego C.(Linkedin Scraping)
+=============================================================
+5/3
+---------------------------------
+13.20
+Upwork-bid-70
+message-3
+Samba T.(Machine Learning Expert)
+Mahen L.(Machine Learning Expert for Advanced Crypto Trading Bot Development)
+Reiner Dieter Z.(Shopify Store Renovation)
+=============================================================
+5/4
+---------------------------------
+6.20
+Upwork-bid-40
+=============================================================
+5/6
+---------------------------------
+6.20
+Upwork-bid-45
+message-1
+Oded Kadshai(AI Image Generation Expert // DALL-E, Midjourney, Stable Diffusion // Prompt Engineering)
+=============================================================
+5/7
+---------------------------------
+13.40
+Upwork-bid-45
+message-2
+Sushil Kumar J.(4+Year experience Fullstack developer developer available to join Immediately.)
+Abdellah Taouil(Data Analyst)
+meeting-1
+Caller: WKH, Assistant: YTH, Call Machine 3, Meeting with Abdellah Taouil(Data Analyst) 1:00-1:15, Result: failed-low budget

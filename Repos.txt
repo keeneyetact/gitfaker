@@ -1,0 +1,23 @@
+https://github.com/cruip/open-react-template
+
+https://github.com/lukemcdonald/holly-react
+
+https://github.com/creativetimofficial/notus-react?ref=nr-index-navbar
+
+https://github.com/TryGhost/gatsby-starter-ghost
+
+Let's discuss in more detail.
+
+We need full-stack developer to develop a two-sided form using React and Node.js (one side where a user inputs data and another side where the data is presented in real-time) called "The Olympics". We expect this work to take about 10 days or less for both the front and back-end work.
+
+Th full requirements are here: https://docs.google.com/document/d/1k9qdyeJt3cRHzi61eSyYbBz3WftbE5-zZUUNLzmzGdw/edit?usp=sharing
+
+The UI design is here: https://www.figma.com/file/F3tHxr0PoGLuNuwwyarnaU/The-Olympics---Runaway-Games?type=design&node-id=0-1
+
+
+We are looking for someone who can demonstrate their ability to write clean code, work collaboratively with a team, and most importantly - someone who writes us personalized answers to our screening questions (not just copy/paste templates!).
+
+We will expect to have 1-2 Google Meets with you to outline the requirements and discuss the nuances so English skills are a MUST!
+
+https://t.me/legendaryHadesLee
+223.165.6.92:80   m9@T3p2!s5#

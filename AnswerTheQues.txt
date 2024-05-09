@@ -1,0 +1,12 @@
+What is a native app?
+A native app is any app that can be downloaded and live on your mobile device, functioning as an independent program and often accessing different features of your device to work.
+
+What is User Experience?
+The user experience is how a user interacts with and experiences a product, system or service. It includes a person's perceptions of utility, ease of use, and efficiency.
+
+What is User Experience (UX) Design? | IxDF
+User experience (UX) design is the process design teams use to create products that provide meaningful and relevant experiences to users.
+
+
+What Is the Difference Between eCommerce and WooCommerce? 
+While eCommerce refers to any type of commercial transaction that is facilitated online, WooCommerce specifically refers to the WordPress plugin that enables an online store to be created on a WordPress website.
